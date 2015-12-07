@@ -3,6 +3,9 @@ a scientific calculator with metro design using C#
 
 Enjoy yourself :)
 
+### Runtime Environment
+- Microsoft.NET Framework 4.5 or higher
+
 ###Features: 
 - 支持复杂表达式的计算
 - 基本计算支持键盘响应
@@ -12,6 +15,7 @@ Enjoy yourself :)
 
 ###Bugs:
 - To be reported.
+- Please contact me or pull it as a request if you find any bugs, thank you:)
 
 ###Screenshot:
 ![image](https://github.com/KaitoHH/ScientificCalculator/blob/master/screenshots.png)
